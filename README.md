@@ -1,0 +1,6 @@
+The **Student Fine Management System** is a Java-based console application designed to manage and monitor student fines efficiently. It provides separate login access for administrators and students to ensure secure usage. The Admin can view all payments, add new fine records, update existing payments, and delete records when necessary. The system also allows filtering of payments by fine type, student ID, and date range. Students can register, log in, and view their profile details. They can also check their balance and transaction history. The project is developed using Core Java and follows object-oriented programming principles. It demonstrates CRUD operations, menu-driven programming, and basic authentication functionality.
+<img width="1038" height="630" alt="image" src="https://github.com/user-attachments/assets/00dadd3c-deb7-4acf-a157-35b668fa9e87" />
+<img width="1063" height="695" alt="image" src="https://github.com/user-attachments/assets/54f87fc0-dc56-42eb-888d-0e0ec7d16a4d" />
+<img width="882" height="722" alt="image" src="https://github.com/user-attachments/assets/659f3887-ebd9-43e5-9dd0-69731837f833" />
+<img width="596" height="574" alt="image" src="https://github.com/user-attachments/assets/0585703f-b801-44f9-a8c1-ca012f161332" />
+
